@@ -6,3 +6,7 @@
 
 ### Postorder traversal
 ![result_pot](results/result_pot.png)
+
+### Level order traversal :(
+![result_lot](results/result_lot.png)
+
